@@ -1,0 +1,22 @@
+{
+	"name": "practice-with-mentor-nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js",
+		"dev": "bohdan=pizza anna=chiken PORT=5000 NODE_ENV=development node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lisitsyna-anna/practice-with-mentor-nodejs.git"
+	},
+	"keywords": [],
+	"author": "Anna Lisitsyna <anna.lisicina9309@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/lisitsyna-anna/practice-with-mentor-nodejs/issues"
+	},
+	"homepage": "https://github.com/lisitsyna-anna/practice-with-mentor-nodejs#readme"
+}
